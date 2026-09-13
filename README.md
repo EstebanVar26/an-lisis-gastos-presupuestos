@@ -1,6 +1,6 @@
 # Análisis de Variación Presupuestaria y Control de Gastos Operativos
 
-![Dashboard de Análisis de Gastos](dashboard.png)
+![Dashboard de Análisis de Gastos](panel.png.png)
 
 ## Descripción del Proyecto
 Este proyecto analiza las desviaciones entre los gastos reales ejecutados y el presupuesto proyectado. A través de un modelo de datos relacional y un dashboard interactivo desarrollado en Power BI, la herramienta permite identificar sobreejecuciones y oportunidades de eficiencia operativa en tiempo real.
